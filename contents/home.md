@@ -2,7 +2,7 @@
 
 [![1235mmmuu](https://img.shields.io/badge/1235mmmuu-github-blue?logo=github)](https://github.com/1235mmmuu)
 
-I am a Ph.D. candidate at the School of Naval Architecture, Ocean & Civil Engineering, Shanghai Jiao Tong University，China.
+I am a Ph.D. student at the School of SCHOOL OF OCEAN AND CIVL ENGINEERING, SHANGHAI JIAO TONG UNIVERSITY，China.
 
 #### Email
 478294595@qq.com
