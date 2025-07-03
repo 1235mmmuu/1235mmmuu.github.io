@@ -1,13 +1,9 @@
-- National Scholarship of Graduate Student, 2024.
+- National Scholarship, 2024 - 2025
 
-- First-prize Scholarship of CUMT, 2024.
+- First - prize Graduate Scholarship, 2023 - 2024
 
-- First-prize Scholarship of CUMT, 2023.
+- Outstanding Student of Merchant Marine College, 2023 - 2024
 
-- Freshman Scholarship of CUMT, 2022.
+- First - prize Graduate Scholarship, 2022 - 2023
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Outstanding Participant of "Marine and New Energy Utilization" Shanghai International Summer School for Postgraduate Students, 2022 

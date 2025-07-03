@@ -1,12 +1,11 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- J. Wu, **X. Meng**, P. Zhang, et al. Seaworthiness management of bulk carriers during the transportation process from the perspective of bauxite performance[J]. Journal of Marine Science and Engineering, 2023, 11(2): 303. (SCIE indexed, 2nd district of Chinese Academy of Sciences)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- **Xiangqian Meng**, Jianjun Wu, Zhuqinghua, et al. Analysis method for ship stability safety affected by the environment of the Maritime Silk Road[J]. Acta Scientiarum Naturalium Universitatis Tsinghuae, 2024, 64(06):1060 - 1069.2024.22.017. (EI indexed, Leading Journal of China's Science and Technology Periodicals Excellence Action Plan)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- J. Wu, **X. Meng**, S. Hu, et al. Typhoon Evolution Characteristics and Influence on Ship Navigation with Polar Coordinate Data driven: A Case of historical Tropical Cyclone Trajectory[J], Ocean Engineering, OE-D-25-01496 (returned for revision)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Fourth author. Safety analysis of ship navigation in polar regions considering human factors[J]. Journal of Safety Science and Technology, 2024, 20(05):27 - 34. (Peking University core journal)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- Fourth author. Research status of resilience governance of transportation safety on the Maritime Silk Road, 2024 International Conference on Naval Architecture and Ocean & Marine Engineering, 20241012, Nanjing, Jiangsu (EI indexed conference)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- Fourth author. Risk control method for ship navigation in sea - strait waterways, China Safety Conference - Marine Safety Forum (international top - level conference) 
