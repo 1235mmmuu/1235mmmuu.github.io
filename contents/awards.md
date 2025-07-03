@@ -1,3 +1,7 @@
+- Shanghai Outstanding Graduate, 2025
+
+- First - prize Award for Outstanding Postgraduate Achievements, 2025 
+
 - National Scholarship, 2024 - 2025
 
 - First - prize Graduate Scholarship, 2023 - 2024
